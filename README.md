@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sourajit Nandy</h1>
 <h3 align="center">A passionate .NET developer from India</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
+</p>
+
 - 🌱 I’m currently learning **Angulat Framework**
 
 - 📫 How to reach me **sourajitnandy2001@gmail.com**
 
 - ⚡ Fun fact **"I think if you're a devloper you have no life"**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sourajit nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourajit nandy" height="30" width="40" /></a>
